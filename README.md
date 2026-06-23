@@ -40,14 +40,6 @@ A real-time weather forecasting application built using React and external APIs.
 **Diploma in Artificial Intelligence & Machine Learning**
 2023 – Present
 
-## 📫 Connect With Me
-
-**Email:**
-[niharikamalankar@gmail.com](mailto:niharikamalankar@gmail.com)
-
-**LinkedIn:**
-[www.linkedin.com/in/niharika-malankar-773651376](http://www.linkedin.com/in/niharika-malankar-773651376)
-
 ## 🌍 Live Portfolio
 
 (Add your portfolio link here after deployment)
