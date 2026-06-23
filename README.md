@@ -15,6 +15,7 @@ I am an AI & Machine Learning student passionate about web development, problem 
 * Tailwind CSS
 * Vite
 * Git & GitHub
+* Vercel
 
 ## 📌 Featured Projects
 
