@@ -18,7 +18,7 @@ export default function Education() {
 </h3>
 
 <p className="text-gray-1000 mt-2">
-  Government Polytechnic • 2023 – Present
+  Government Polytechnic • 2024 – Present
 </p>
           </div>
 

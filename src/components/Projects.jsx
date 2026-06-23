@@ -15,9 +15,9 @@ export default function Projects() {
   description:
     "Personal portfolio built with React showcasing projects, certificates, and education.",
   image: "/projects/portfolio.png",
-  demo: "#",
-  github: "YOUR_GITHUB_REPO_LINK",
-  tech: ["React", "Tailwind CSS"],
+  demo: "https://portfolio-navy-rho-28.vercel.app/",
+  github: "https://github.com/Niharika-Malankar/portfolio.git",
+  tech: ["React", "JavaScript", "CSS"],
 }
     // {
     //   title: "Weather App",

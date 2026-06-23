@@ -26,9 +26,6 @@ A modern and responsive skincare e-commerce website built using React.
 
 A personal portfolio website showcasing my projects, certificates, and achievements.
 
-### 🌦️ Weather App
-
-A real-time weather forecasting application built using React and external APIs.
 
 ## 📜 Certificates
 
@@ -38,12 +35,10 @@ A real-time weather forecasting application built using React and external APIs.
 ## 🎓 Education
 
 **Diploma in Artificial Intelligence & Machine Learning**
-2023 – Present
+2024 – Present
 
 ## 🌍 Live Portfolio
 
-(Add your portfolio link here after deployment)
-
----
+[https://portfolio-navy-rho-28.vercel.app/]
 
 Thank you for visiting my portfolio!
