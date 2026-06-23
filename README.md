@@ -1,16 +1,57 @@
-# React + Vite
+# 🌐 Niharika Malankar Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!
 
-Currently, two official plugins are available:
+This portfolio showcases my projects, certificates, skills, and educational background as an Artificial Intelligence & Machine Learning student.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 👩‍💻 About Me
 
-## React Compiler
+I am an AI & Machine Learning student passionate about web development, problem solving, and building impactful digital experiences. I enjoy creating modern applications using React and exploring the possibilities of Artificial Intelligence.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Technologies Used
 
-## Expanding the ESLint configuration
+* React
+* JavaScript
+* Tailwind CSS
+* Vite
+* Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Featured Projects
+
+### 🛍️ Skincare E-Commerce Website
+
+A modern and responsive skincare e-commerce website built using React.
+
+### 🌐 Portfolio Website
+
+A personal portfolio website showcasing my projects, certificates, and achievements.
+
+### 🌦️ Weather App
+
+A real-time weather forecasting application built using React and external APIs.
+
+## 📜 Certificates
+
+* AI Skill Passport
+* AI and Future Technologies
+
+## 🎓 Education
+
+**Diploma in Artificial Intelligence & Machine Learning**
+2023 – Present
+
+## 📫 Connect With Me
+
+**Email:**
+[niharikamalankar@gmail.com](mailto:niharikamalankar@gmail.com)
+
+**LinkedIn:**
+[www.linkedin.com/in/niharika-malankar-773651376](http://www.linkedin.com/in/niharika-malankar-773651376)
+
+## 🌍 Live Portfolio
+
+(Add your portfolio link here after deployment)
+
+---
+
+Thank you for visiting my portfolio!
