@@ -1,7 +1,9 @@
+
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 export default function Hero() {
   return (
     <section className="relative min-h-screen overflow-hidden">
+      
 
       {/* Background */}
       <div className="absolute inset-0 bg-gradient-to-r from-blue-100/80 via-white to-white" />
@@ -55,22 +57,28 @@ export default function Hero() {
 
           <div className="flex gap-4 mt-10">
 
-            <button className="bg-blue-600 text-white px-8 py-4 rounded-xl text-lg">
+           <a
+              href="#projects"
+              className="bg-blue-600 text-white px-8 py-4 rounded-xl text-lg inline-block"
+            >
               View Projects
-            </button>
+            </a>
 
-            <button className="border border-gray-300 px-8 py-4 rounded-xl text-lg">
+            <a
+              href="#contact"
+              className="border border-gray-300 px-8 py-4 rounded-xl text-lg inline-block"
+            >
               Contact Me
-            </button>
+            </a>
 
           </div>
 
           <div className="flex gap-4 mt-10">
 
             <a
-                // href="https://github.com/Niharika-Malankar"
-                // target="_blank"
-                // rel="noopener noreferrer"
+                href="#"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="w-14 h-14 border rounded-xl flex items-center justify-center hover:bg-blue-50 text-2xl"
             >
               <FaGithub />

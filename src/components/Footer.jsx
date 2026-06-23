@@ -4,70 +4,69 @@ export default function Footer() {
   return (
     <footer
       id="contact"
-      className="border-t bg-white py-16"
+      className="relative border-t bg-blue-50 py-20"
     >
-      <div className="max-w-7xl mx-auto px-8">
+      {/* Background Blob */}
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-96 h-96 bg-blue-200 rounded-full blur-3xl opacity-20 -z-10"></div>
 
-        <div className="flex flex-col md:flex-row justify-between gap-10">
+      <div className="max-w-4xl mx-auto px-8 text-center">
 
-          {/* Left */}
-          <div>
-            <h2 className="text-3xl font-black text-blue-600">
-              Niharika Malankar
-            </h2>
+        <h2 className="text-5xl font-black text-blue-600">
+          Let's Connect
+        </h2>
 
-            <p className="mt-4 text-gray-600 max-w-md">
-              AI & Machine Learning student passionate about
-              web development, problem solving and building
-              impactful digital experiences.
-            </p>
-          </div>
+        <p className="mt-6 text-lg text-gray-600 max-w-2xl mx-auto">
+          Feel free to reach out for collaborations, internships,
+          projects, or simply to connect. I'm always open to
+          discussing technology, AI, and new opportunities.
+        </p>
 
-          {/* Right */}
-          <div>
-            <h3 className="text-xl font-bold mb-4">
-              Contact
-            </h3>
+        {/* Email */}
+        <a
+          href="mailto:niharikamalankar@gmail.com"
+          className="block mt-10 text-2xl font-semibold text-blue-600 hover:underline"
+        >
+          📧 niharikamalankar@gmail.com
+        </a>
 
-            <div className="space-y-3 text-gray-600">
-              <p>📧 niharikamalankar@gmail.com</p>
-              <p>📍 Maharashtra, India</p>
-            </div>
+        {/* Location */}
+        <p className="mt-3 text-lg text-gray-600">
+          📍 Maharashtra, India
+        </p>
 
-            <div className="flex gap-4 mt-6">
+        {/* Social Icons */}
+        <div className="flex justify-center gap-5 mt-10">
 
-              <a
-                // href="https://github.com/Niharika-Malankar"
-                // target="_blank"
-                // rel="noopener noreferrer"
-                className="w-12 h-12 border rounded-xl flex items-center justify-center hover:bg-blue-50"
-            >
-  <FaGithub />
-</a>
+          <a
+            href="#"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-14 h-14 border rounded-2xl flex items-center justify-center text-xl hover:bg-blue-50 transition"
+          >
+            <FaGithub />
+          </a>
 
-              <a
-                href="https://www.linkedin.com/in/niharika-malankar-773651376"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-12 h-12 border rounded-xl flex items-center justify-center hover:bg-blue-50"
-              >
-                <FaLinkedin />
-              </a>
+          <a
+            href="https://www.linkedin.com/in/niharika-malankar-773651376"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-14 h-14 border rounded-2xl flex items-center justify-center text-xl hover:bg-blue-50 transition"
+          >
+            <FaLinkedin />
+          </a>
 
-              <a
-                href="mailto:niharikamalankar@gmail.com"
-                className="w-12 h-12 border rounded-xl flex items-center justify-center hover:bg-blue-50"
-              >
-                <FaEnvelope />
-              </a>
-
-            </div>
-          </div>
+          <a
+            href="mailto:niharikamalankar@gmail.com"
+            className="w-14 h-14 border rounded-2xl flex items-center justify-center text-xl hover:bg-blue-50 transition"
+          >
+            <FaEnvelope />
+          </a>
 
         </div>
 
-        <div className="border-t mt-12 pt-6 text-center text-gray-500">
-          © 2026 Niharika Malankar. Built with React & Tailwind CSS.
+        {/* Bottom Line */}
+        <div className="border-t mt-16 pt-6 text-gray-500">
+          © 2026 Niharika Malankar. All rights reserved.
         </div>
 
       </div>

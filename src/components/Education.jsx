@@ -8,22 +8,29 @@ export default function Education() {
         Education
       </h2>
 
-      <div className="space-y-8">
+      <div className="bg-white border rounded-3xl p-10 shadow-sm hover:shadow-xl transition">
 
-        <div className="bg-white border rounded-3xl p-8">
-          <h3 className="text-2xl font-bold">
-            Diploma in Computer Engineering
-          </h3>
+        <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
 
-          <p className="text-gray-500 mt-2">
-            2023 - Present
-          </p>
+          <div>
+            <h3 className="text-3xl font-bold">
+  Diploma in Artificial Intelligence & Machine Learning
+</h3>
 
-          <p className="mt-4 text-gray-600">
-            Focused on programming, web development,
-            databases and software engineering.
-          </p>
+<p className="text-gray-1000 mt-2">
+  Government Polytechnic • 2023 – Present
+</p>
+          </div>
+
+  
+
         </div>
+
+        <p className="mt-8 text-slate-700 text-lg leading-relaxed">
+          Currently pursuing a diploma in Artificial Intelligence
+          and Machine Learning with a focus on software development,
+          problem solving, and emerging technologies.
+        </p>
 
       </div>
     </section>
